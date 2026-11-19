@@ -36,4 +36,14 @@ h1 {
 
 .card p {
     color: #666666;
+
+    body {
+    background-color: #dce8df;
 }
+
+.card img {
+    border-radius: 12px;
+}
+
+}
+
